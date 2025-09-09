@@ -23,7 +23,7 @@ Platform: Any IDE or Command Line
 
 1. Clone this repository
 
-git clone https://github.com/username/student-grade-management-system.git
+git clone https://github.com/rashid-husainn-ansari-debug/Student-Grade-Management-System
 
 
 2. Open the project in your IDE / terminal
